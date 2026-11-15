@@ -1,2 +1,9 @@
-# zion-meetings-ai
-Zion Tech Group: meeting-summary AI service landing page. Static preview; no live AI backend.
+# Zion Meetings AI
+
+Static service-preview landing page for Zion Tech Group. No live AI backend.
+
+index.html contains exactly 800 visible body words, excluding head metadata and CSS.
+
+Pages source: main / (root). Planned domain: meetings.ziontechgroup.com. DNS-only CNAME target: priyapondi10-tech.github.io.
+
+Deployment status must be verified separately.
